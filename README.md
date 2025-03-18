@@ -1,16 +1,12 @@
 
-<h1 align="center"><b>Hola , soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Judith Diaz</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Judith Diaz </b><img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = /></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Programacion en UTN Regional Pacheco
+- 🌱 Actualmente estoy aprendiendo Jav y Msql
+- 😄 Contacto <br>
+ [![@judith-diaz-872b9a234](https://img.icons8.com/fluency/48/000000/linkedin.png "@judith-diaz-872b9a234")](https://www.linkedin.com/in/judith-diaz-872b9a234/)  [![@judith.carolina.diaz@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@judith.carolina.diaz@gmail.com")](judith.carolina.diaz@gmail.com)
+
+<br>
 ### 🛠 &nbsp;Lenguages nivel basico
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -32,3 +28,10 @@ Judith Diaz</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 ![Visual Studio ](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+### &nbsp; Contacto😄 :
+
+<br>
+
+ [![@judith-diaz-872b9a234](https://img.icons8.com/fluency/48/000000/linkedin.png "@judith-diaz-872b9a234")](https://www.linkedin.com/in/judith-diaz-872b9a234/)  [![@judith.carolina.diaz@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@judith.carolina.diaz@gmail.com")](judith.carolina.diaz@gmail.com)
+
+<br>
