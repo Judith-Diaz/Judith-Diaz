@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Judith-Diaz/Judith-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
