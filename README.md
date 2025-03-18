@@ -14,7 +14,7 @@ Judith Diaz</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
 ### 🛠 &nbsp;Lenguages nivel basico
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-800080%3Fstyle%3Dflat%26logo%3DC%23%26logoColor%3DA8B9CC?color=800080)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
