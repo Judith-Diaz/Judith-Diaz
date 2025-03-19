@@ -1,8 +1,12 @@
 
-<h1 align="center"><b>Hola, soy Judith Diaz </b><img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = /></h1>
+<h1 align="center"><b>Hola, soy Judith Diaz </b></h1>
+<div style="text-align: center;">
+    <img alt="GIF" src="https://i.gifer.com/7USR.gif" />
+</div>
+
 
 - 🎓 Estudiante de Programacion en UTN Regional Pacheco
-- 🌱 Actualmente estoy aprendiendo Jav y Msql
+- 🌱 Actualmente estoy aprendiendo Java y Mysql
 - 😄 Contacto <br>
  [![@judith-diaz-872b9a234](https://img.icons8.com/fluency/48/000000/linkedin.png "@judith-diaz-872b9a234")](https://www.linkedin.com/in/judith-diaz-872b9a234/)  [![@judith.carolina.diaz@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@judith.carolina.diaz@gmail.com")](judith.carolina.diaz@gmail.com)
 
