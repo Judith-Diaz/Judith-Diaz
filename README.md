@@ -1,9 +1,8 @@
 
-<h1 align="center"><b>Hola, soy Judith Diaz </b></h1>
-<div style="text-align: center;">
-    <img alt="GIF" src="https://i.gifer.com/7USR.gif" />
-</div>
+<h1 align="center" ><b>⭐ Hola, soy Judith Diaz ⭐</b></h1>
 
+
+<img align="right" alt="GIF" src="https://i.gifer.com/7USR.gif" width="400" height="280" />
 
 - 🎓 Estudiante de Programacion en UTN Regional Pacheco
 - 🌱 Actualmente estoy aprendiendo Java y Mysql
