@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://i.gifer.com/7USR.gif" width="400" height="280" />
 
-- 🎓 Estudiante de Programacion en UTN Regional Pacheco
+- 🎓  Tecnico en Programacion  recibida en UTN Regional Pacheco
 - 🌱 Actualmente estoy aprendiendo Java y Mysql
 - 😄 Contacto <br>
  [![@judith-diaz-872b9a234](https://img.icons8.com/fluency/48/000000/linkedin.png "@judith-diaz-872b9a234")](https://www.linkedin.com/in/judith-diaz-872b9a234/)  [![@judith.carolina.diaz@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@judith.carolina.diaz@gmail.com")](judith.carolina.diaz@gmail.com)
