@@ -17,14 +17,14 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![java](https://img.shields.io/badge/-C%23-800080%3Fstyle%3Dflat%26logo%3DC%23%26logoColor%3DA8B9CC?color=800080)&nbsp;
+![java](https://img.shields.io/badge/-java-800080%3Fstyle%3Dflat%26logo%3DC%23%26logoColor%3DA8B9CC?color=800080)&nbsp;
 ### 🛠 &nbsp;Frameworks basico
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 
 ### 🛠 &nbsp;Databases basico
 ![SQL](https://img.shields.io/badge/-SQL-800080%3Fstyle%3Dflat%26logo%3DSQL%26logoColor%3DA8B9CC?color=274ad1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-800080%3Fstyle%3Dflat%26logo%3DSQLite%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
-![MYSql](https://img.shields.io/badge/-SQLite-800080%3Fstyle%3Dflat%26logo%3DSQLite%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
+![MYSql](https://img.shields.io/badge/-MySql-800080%3Fstyle%3Dflat%26logo%3DMysqle%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
 ### 🛠 &nbsp;Herramientas 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
