@@ -20,7 +20,7 @@
 ![java](https://img.shields.io/badge/-java-800080%3Fstyle%3Dflat%26logo%3DC%23%26logoColor%3DA8B9CC?color=800080)&nbsp;
 ### 🛠 &nbsp;Frameworks basico
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Django](https://img.shields.io/badge/-MySql-800080%3Fstyle%3Dflat%26logo%3DMysqle%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
+![Django](https://img.shields.io/badge/-Django-800080%3Fstyle%3Dflat%26logo%3DMysqle%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
 ### 🛠 &nbsp;Databases basico
 ![SQL](https://img.shields.io/badge/-SQL-800080%3Fstyle%3Dflat%26logo%3DSQL%26logoColor%3DA8B9CC?color=274ad1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-800080%3Fstyle%3Dflat%26logo%3DSQLite%26logoColor%3DA8B9CC?color=147a9b)&nbsp;
